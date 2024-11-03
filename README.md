@@ -1,9 +1,21 @@
 
-<p align="center">
-<a  href="https://web.facebook.com/mdzual.rana.18/">
-  <img width="40%" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/main.png"/>
-</a>
-</p>
+<table>
+  <tr>
+    <td>
+      <h3>Hi There, My name is Zual Rana</h3>
+      <h4>I'm a junior front-end developer</h3>
+      <p>I like to work as a front-end developer because it gives me a lot of flexibility to create something new and experiment with new technologies. I love working with React and Sass.</p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://web.facebook.com/mdzual.rana.18/">
+          <img width="100%" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/main.png" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <!-- ## :chart_with_upwards_trend: Current Stats
 
