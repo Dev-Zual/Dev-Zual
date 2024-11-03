@@ -16,7 +16,17 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/zual-rana/)[<img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Facebook.png">](https://web.facebook.com/mdzual.rana.18/)[<img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Twitter.png"> </p>]()
+<p align="center">
+  <a href="https://www.linkedin.com/in/zual-rana/">
+    <img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Linkedin.png">
+  </a>
+  <a href="https://web.facebook.com/mdzual.rana.18/">
+    <img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Facebook.png">
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle">
+    <img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Twitter.png">
+  </a>
+</p>
 
 <br />
 
