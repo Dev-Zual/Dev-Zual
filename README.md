@@ -1,5 +1,5 @@
 <a href="https://web.facebook.com/mdzual.rana.18/">
-
+  <img src"https://github.com/Dev-Zual/Dev-Zual/blob/main/images/main.png"/>
 </a>
 
 <!-- ## :chart_with_upwards_trend: Current Stats
@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">]()[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]()[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>]()
 
 <br />
 
