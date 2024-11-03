@@ -1,5 +1,13 @@
+<p align="left">
+  ### Hi There, My name is Zual Rana
+  ## I'm a junior front-end developer
+  
+  <br/>
+ ## I like to work as a front-end developer because it gives me a lot of flexibility to make something new and experiment with new technologies. I love to work with React and Sass.
+</p>
+
 <a href="https://web.facebook.com/mdzual.rana.18/">
-  <img align="center" width="50%" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/main.png"/>
+  <img width="50%" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/main.png"/>
 </a>
 
 <!-- ## :chart_with_upwards_trend: Current Stats
