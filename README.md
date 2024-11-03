@@ -1,5 +1,5 @@
 <a href="https://web.facebook.com/mdzual.rana.18/">
-  <img width="50%" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/main.png"/>
+  <img align="center" width="50%" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/main.png"/>
 </a>
 
 <!-- ## :chart_with_upwards_trend: Current Stats
