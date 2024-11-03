@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">]()[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]()[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>]()
+[<p align="center"><img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Linkedin.png">]()[<img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Facebook.png">]()[<img height="75" src="https://github.com/Dev-Zual/Dev-Zual/blob/main/images/icons/Twitter.png"> </p>]()
 
 <br />
 
